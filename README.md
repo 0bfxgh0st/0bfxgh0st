@@ -6,7 +6,7 @@ casual ctf player.
 <h2>HTB Rank<h2>
 <img src="http://www.hackthebox.eu/badge/image/717835">
 
-<h2>Os</h2>
+<h1>Os</h1>
 <p align="left">
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/kalicon/emblem-kali.svg" width="52px" height="52px">
 </p>
