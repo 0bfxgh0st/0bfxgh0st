@@ -4,6 +4,8 @@
 
 <p align="center">
 I'm 0bfxgh0st*  
+</p>
+<p align="center">
 casual ctf player.  
 </p>
 
@@ -11,7 +13,7 @@ casual ctf player.
 
 <p align="center">
 <h2>HTB Rank<h2>
-<img src="http://www.hackthebox.eu/badge/image/717835" width="32px" height="32px">
+<img src="http://www.hackthebox.eu/badge/image/717835">
 </p>
 
 <h1>Os</h1>
