@@ -5,3 +5,4 @@ casual ctf player.
 
 <img src="http://www.hackthebox.eu/badge/image/717835">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="32px" height="32px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="32px" height="32px">
