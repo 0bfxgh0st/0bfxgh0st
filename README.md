@@ -1,12 +1,9 @@
 <p align="center">
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="20%" height="20%">
-</p>
+</p>https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png
 
 <p align="center">
-I'm 0bfxgh0st*  
-</p>
-<p align="center">
-casual ctf player.  
+I'm 0bfxgh0st*<br>casual ctf player.  
 </p>
 
 *GhhbmtzIHRvIGFsbCBwZW9wbGUgd2hvIGNvbnRyaWJ1dGVzIGFuZCBtYWtlcyB0ZWNobm9sb2d5IHBvc3NpYmxlLiBTcGVjaWFsIHRoYW5rcyB0byBQLkMuLCBTaGVsbGRyZWRkLCBTNHZpdGFyLCBXaWxkWmFyZWsu
