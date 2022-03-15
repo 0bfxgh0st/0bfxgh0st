@@ -16,7 +16,7 @@ Can you find my byte?
 <img src="http://www.hackthebox.eu/badge/image/717835">
 </p>
 
-<h1 align="center">Os</h1>
+<h1 align="center" width="32px" height="32px">Kali Linux Os</h1>
 <p align="center">
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/emblem-kali.svg" width="15%" height="15%">
 </p>
