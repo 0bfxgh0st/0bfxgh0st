@@ -16,9 +16,9 @@ Can you find my byte?
 <img src="http://www.hackthebox.eu/badge/image/717835">
 </p>
 
-<h1>Os</h1>
-<p align="left">
-<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/emblem-kali.svg" width="52px" height="52px">
+<h1 align="center">Os</h1>
+<p align="center">
+<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/emblem-kali.svg" width="15%" height="15%">
 </p>
   
 <h2>Other Operating Systems<h2>
