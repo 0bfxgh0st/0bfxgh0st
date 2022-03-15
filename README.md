@@ -1,5 +1,5 @@
 *GhhbmtzIHRvIGFsbCBwZW9wbGUgd2hvIGNvbnRyaWJ1dGVzIGFuZCBtYWtlcyB0ZWNobm9sb2d5IHBvc3NpYmxlLiBTcGVjaWFsIHRoYW5rcyB0byBQLkMuLCBTaGVsbGRyZWRkLCBTNHZpdGFyLCBXaWxkWmFyZWsu
-
+<img src="https://github.com/0bfxgh0st/blob/main/icons/cat.png" width="32px" height="32px">
 I'm 0bfxgh0st*  
 casual ctf player.  
 
@@ -8,7 +8,7 @@ casual ctf player.
 
 <h1>Os</h1>
 <p align="left">
-<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/kalicon/emblem-kali.svg" width="52px" height="52px">
+<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/emblem-kali.svg" width="52px" height="52px">
 </p>
   
 <h2>Other Operating Systems<h2>
