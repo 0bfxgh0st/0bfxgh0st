@@ -17,5 +17,12 @@ casual ctf player.
 <p align="left"> 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="32px" height="32px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="32px" height="32px">
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mariadb.svg" width="32px" height="32px">
+</p>
+
+<h2>Servers</h2>
+<p align="left">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" width="32px" height="32px">
 </p>
