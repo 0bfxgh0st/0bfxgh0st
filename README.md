@@ -23,6 +23,7 @@ casual ctf player.
 <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" width="32px" height="32px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="32px" height="32px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/xampp.svg" width="32px" height="32px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="32px" height="32px">
@@ -30,9 +31,3 @@ casual ctf player.
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mongodb.svg" width="52px" height="52px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/sqlite.svg" width="52px" height="52px">
 </p>
-
-<h2>Servers</h2>
-<p align="left">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" width="32px" height="32px">
-</p>
-
