@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="20%" height="20%">
-</p>https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png
+</p>
 
 <p align="center">
 I'm 0bfxgh0st*<br>casual ctf player.  
