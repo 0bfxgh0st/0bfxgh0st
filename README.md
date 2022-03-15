@@ -5,6 +5,13 @@ casual ctf player.
 
 
 <img src="http://www.hackthebox.eu/badge/image/717835">
+
+<h2>Operative Systems<h2>
+<p align="left">
+
+<img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="32px" height="32px">
+</p>
+
 <h2>Languages and Tools<h2>
 <p align="left"> 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="32px" height="32px">
