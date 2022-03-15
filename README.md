@@ -15,6 +15,7 @@ casual ctf player.
 
 <h2>Languages and Tools<h2>
 <p align="left"> 
+<img src="https://www.pikpng.com/pngl/m/247-2470992_kali-linux-logo-backtrack-clipart.png" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" width="32px" height="32px">
