@@ -4,3 +4,5 @@ I'm 0bfxgh0st*
 casual ctf player.  
 
 <img src="http://www.hackthebox.eu/badge/image/717835">
+
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kalilinux.svg">
