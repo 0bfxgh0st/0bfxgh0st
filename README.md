@@ -8,6 +8,7 @@ casual ctf player.
 
 <h2>Operating Systems<h2>
 <p align="left">
+<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/kalicon/emblem-kali.svg" width="32px" height="32px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ubuntu.svg" width="32px" height="32px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/debian.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="32px" height="32px">
@@ -15,7 +16,6 @@ casual ctf player.
 
 <h2>Languages and Tools<h2>
 <p align="left"> 
-<img src="https://www.pikpng.com/pngl/m/247-2470992_kali-linux-logo-backtrack-clipart.png" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" width="32px" height="32px">
