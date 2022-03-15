@@ -1,9 +1,8 @@
 <p align="center">
-<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="32px" height="32px">
-</p>
+<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="20%" height="20%">
 I'm 0bfxgh0st*  
 casual ctf player.  
-
+</p>
 *GhhbmtzIHRvIGFsbCBwZW9wbGUgd2hvIGNvbnRyaWJ1dGVzIGFuZCBtYWtlcyB0ZWNobm9sb2d5IHBvc3NpYmxlLiBTcGVjaWFsIHRoYW5rcyB0byBQLkMuLCBTaGVsbGRyZWRkLCBTNHZpdGFyLCBXaWxkWmFyZWsu
 
 <h2>HTB Rank<h2>
