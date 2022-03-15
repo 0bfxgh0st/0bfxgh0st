@@ -1,12 +1,14 @@
 <p align="center">
-<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="20%" height="20%">  
+<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="20%" height="20%">
+</p>
+
 I'm 0bfxgh0st*  
 casual ctf player.  
-</p>
+
 *GhhbmtzIHRvIGFsbCBwZW9wbGUgd2hvIGNvbnRyaWJ1dGVzIGFuZCBtYWtlcyB0ZWNobm9sb2d5IHBvc3NpYmxlLiBTcGVjaWFsIHRoYW5rcyB0byBQLkMuLCBTaGVsbGRyZWRkLCBTNHZpdGFyLCBXaWxkWmFyZWsu
 
 <p align="center">
-<h2>HTB Rank<h2>
+HTB Rank
 <img src="http://www.hackthebox.eu/badge/image/717835" width="10%" height="10%">
 </p>
 
