@@ -8,8 +8,8 @@ I'm 0bfxgh0st*<br>casual ctf player.
 
 *GhhbmtzIHRvIGFsbCBwZW9wbGUgd2hvIGNvbnRyaWJ1dGVzIGFuZCBtYWtlcyB0ZWNobm9sb2d5IHBvc3NpYmxlLiBTcGVjaWFsIHRoYW5rcyB0byBQLkMuLCBTaGVsbGRyZWRkLCBTNHZpdGFyLCBXaWxkWmFyZWsu
 
-<p align="center">
 <h2 align="center">HTB Rank<h2>
+<p align="center">
 <img src="http://www.hackthebox.eu/badge/image/717835">
 </p>
 
