@@ -6,9 +6,13 @@ casual ctf player.
 <h2>HTB Rank<h2>
 <img src="http://www.hackthebox.eu/badge/image/717835">
 
-<h2>Operating Systems<h2>
+<h2>Os</h2>
 <p align="left">
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/kalicon/emblem-kali.svg" width="52px" height="52px">
+</p>
+  
+<h2>Secondary Operating Systems<h2>
+<p align="left">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ubuntu.svg" width="32px" height="32px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/debian.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="32px" height="32px">
