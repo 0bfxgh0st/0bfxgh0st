@@ -11,8 +11,8 @@ Can you find my byte?
 *GhhbmtzIHRvIGFsbCBwZW9wbGUgd2hvIGNvbnRyaWJ1dGVzIGFuZCBtYWtlcyB0ZWNobm9sb2d5IHBvc3NpYmxlLiBTcGVjaWFsIHRoYW5rcyB0byBQLkMuLCBTaGVsbGRyZWRkLCBTNHZpdGFyLCBXaWxkWmFyZWsu
 </pre>
 
-<h2 align="center">HTB Rank<h2>
-<p align="center">
+<h2>HTB Rank<h2>
+<p align="left">
 <img src="https://www.hackthebox.eu/badge/image/717835">
 </p>
 
