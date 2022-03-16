@@ -11,7 +11,7 @@ Can you find my byte?
 *GhhbmtzIHRvIGFsbCBwZW9wbGUgd2hvIGNvbnRyaWJ1dGVzIGFuZCBtYWtlcyB0ZWNobm9sb2d5IHBvc3NpYmxlLiBTcGVjaWFsIHRoYW5rcyB0byBQLkMuLCBTaGVsbGRyZWRkLCBTNHZpdGFyLCBXaWxkWmFyZWsu
 </pre>
 
-<h2>HTB Rank<h2>
+<h2>HTB Rank</h2>
 <img src="https://www.hackthebox.eu/badge/image/717835">
 
 <h1 align="center" width="32px" height="32px">Kali Linux Os</h1>
@@ -19,7 +19,7 @@ Can you find my byte?
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/emblem-kali.svg" width="15%" height="15%">
 </p>
   
-<h2>Other Operating Systems<h2>
+<h2>Other Operating Systems</h2>
 <p align="left">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="32px" height="32px">
 <img src="https://parrotsec.org/images/logo.png" width="32px" height="32px">
@@ -27,7 +27,7 @@ Can you find my byte?
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/debian.svg" width="32px" height="32px">
 </p>
 
-<h2>Languages and Tools<h2>
+<h2>Languages and Tools</h2>
 <p align="left"> 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="32px" height="32px">
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/powershell.svg" width="32px" height="32px">
