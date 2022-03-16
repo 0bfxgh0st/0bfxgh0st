@@ -24,9 +24,9 @@ Can you find my byte?
 <h2>Other Operating Systems<h2>
 <p align="left">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="32px" height="32px">
+<img src="https://parrotsec.org/images/logo.png" width="32px" height="32px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ubuntu.svg" width="32px" height="32px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/debian.svg" width="32px" height="32px">
-<img src="https://parrotsec.org/images/logo.png" width="32px" height="32px">
 </p>
 
 <h2>Languages and Tools<h2>
@@ -36,10 +36,10 @@ Can you find my byte?
 <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" width="32px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" width="32px" height="32px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="32px" height="32px">
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/xampp.svg" width="32px" height="32px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="32px" height="32px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mariadb.svg" width="52px" height="52px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mongodb.svg" width="52px" height="52px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/sqlite.svg" width="52px" height="52px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="32px" height="32px">
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/xampp.svg" width="32px" height="32px">
 </p>
