@@ -12,9 +12,7 @@ Can you find my byte?
 </pre>
 
 <h2>HTB Rank<h2>
-<p align="left">
 <img src="https://www.hackthebox.eu/badge/image/717835">
-</p>
 
 <h1 align="center" width="32px" height="32px">Kali Linux Os</h1>
 <p align="center">
