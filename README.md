@@ -11,7 +11,7 @@ Can you find my byte?
 *GhhbmtzIHRvIGFsbCBwZW9wbGUgd2hvIGNvbnRyaWJ1dGVzIGFuZCBtYWtlcyB0ZWNobm9sb2d5IHBvc3NpYmxlLiBTcGVjaWFsIHRoYW5rcyB0byBUb2t5b25lb24gLCBQLkMuLCBTaGVsbGRyZWRkLCBTNHZpdGFyLCBXaWxkWmFyZWsu
 </pre>
 
-<h2>HTB Rank</h2>
+## HTB Rank
 <img src="https://www.hackthebox.eu/badge/image/717835">
 
 <h1 align="center" width="32px" height="32px">Kali Linux Os</h1>
