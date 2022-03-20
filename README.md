@@ -16,7 +16,7 @@ Can you find my byte?
 
 <h1 align="center" width="32px" height="32px">Kali Linux Os</h1>
 <p align="center">
-<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/emblem-kali.svg" width="50px" height="50px">
+<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/emblem-kali.svg" width="100px" height="100px">
 </p>
   
 <h2>Other Operating Systems</h2>
