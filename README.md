@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="210px" height="210px">
 </p>
 
