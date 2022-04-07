@@ -5,11 +5,12 @@
 <p align="right">
 I'm 0bfxgh0st*<br>casual ctf player.  
 </p>
-
+<p align="left">
 <pre>
 Can you find my byte?
 *GhhbmtzIHRvIGFsbCBwZW9wbGUgd2hvIGNvbnRyaWJ1dGVzIGFuZCBtYWtlcyB0ZWNobm9sb2d5IHBvc3NpYmxlLiBTcGVjaWFsIHRoYW5rcyB0byBUb2t5b25lb24gLCBQLkMuLCBTaGVsbGRyZWRkLCBTNHZpdGFyLCBXaWxkWmFyZWssIFdlYXBvblNob3RndW4u
 </pre>
+</p>
 
 <h2>HTB Rank</h2>
 <img src="https://www.hackthebox.eu/badge/image/717835">
