@@ -2,7 +2,7 @@
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="210px" height="210px">
 </p>
 
-<p align="center">
+<p align="right">
 I'm 0bfxgh0st*<br>casual ctf player.  
 </p>
 
