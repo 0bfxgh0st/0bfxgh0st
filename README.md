@@ -1,10 +1,9 @@
-<h2 align="center">WWA</h2>
 <p align="center">
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="210px" height="210px">
 </p>
 
 <p align="center">
-I'm 0bfxgh0st*<br>casual ctf player.  
+I'm 0bfxgh0st*<br>casual ctf player.<br>WWA 
 </p>
 
 <pre>
