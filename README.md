@@ -1,3 +1,4 @@
+<h2 align="center">WWA</h2>
 <p align="center">
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="210px" height="210px">
 </p>
@@ -13,8 +14,6 @@ Can you find my byte?
 
 <h2>HTB Rank</h2>
 <img src="https://www.hackthebox.eu/badge/image/717835">
-
-<h2 align="center">WWA</h2>
 
 <h1 align="center" width="32px" height="32px">Kali Linux Os</h1>
 <p align="center">
