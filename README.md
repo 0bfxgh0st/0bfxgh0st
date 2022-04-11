@@ -11,9 +11,10 @@ Can you find my byte?
 *GhhbmtzIHRvIGFsbCBwZW9wbGUgd2hvIGNvbnRyaWJ1dGVzIGFuZCBtYWtlcyB0ZWNobm9sb2d5IHBvc3NpYmxlLiBTcGVjaWFsIHRoYW5rcyB0byBUb2t5b25lb24gLCBQLkMuLCBTaGVsbGRyZWRkLCBTNHZpdGFyLCBXaWxkWmFyZWssIFdlYXBvblNob3RndW4u
 </pre>
 
-WWA Member
 <h2>HTB Rank</h2>
 <img src="https://www.hackthebox.eu/badge/image/717835">
+
+<h2 align="center">WWA</h2>
 
 <h1 align="center" width="32px" height="32px">Kali Linux Os</h1>
 <p align="center">
