@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-I'm 0bfxgh0st*<br>casual ctf player.<br>WWA 
+I'm 0bfxgh0st*<br>casual ctf player.<br>WWA Team Member
 </p>
 
 <pre>
