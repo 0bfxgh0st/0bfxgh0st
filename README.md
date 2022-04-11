@@ -14,7 +14,7 @@ Can you find my byte?
 <h2>HTB Rank</h2>
 <img src="https://www.hackthebox.eu/badge/image/717835">
 
-<h2 align="center">WWA</h2>
+<p align="center"><h2>WWA</h2></p>
 
 <h1 align="center" width="32px" height="32px">Kali Linux Os</h1>
 <p align="center">
