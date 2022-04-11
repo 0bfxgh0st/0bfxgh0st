@@ -1,4 +1,4 @@
-<h2 align="center">WWA</h2>
+<h1 align="center">WWA</h1>
 <p align="center">
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="210px" height="210px">
 </p>
