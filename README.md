@@ -13,7 +13,7 @@ Can you find my byte?
 
 <h2>HTB Rank</h2>
 <img src="https://www.hackthebox.eu/badge/image/717835">
-<h2>WWA Team Member</h2>
+<h2>WWA Team</h2>
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/wwa.png" width="120px" height="120px">
 
 
