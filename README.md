@@ -8,7 +8,7 @@ WWA Team Member
 </p>
 
 <p align="center">
-<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/wwa.png" width="90px" height="90px">
+<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/wwa.png" width="120px" height="120px">
 </p>
 
 <pre>
