@@ -4,10 +4,10 @@
 
 <p align="center">
 I'm 0bfxgh0st*<br>casual ctf player<br>
-WWA Team Member
 </p>
 
 <p align="center">
+WWA Team Member
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/wwa.png" width="52px" height="52px">
 </p>
 
