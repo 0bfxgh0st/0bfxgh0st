@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-I'm 0bfxgh0st*<br>casual ctf player<br><img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/wwa.png" width="52px" height="52px">
+I'm 0bfxgh0st*<br>casual ctf player<br>
+</p>
+<p align="center">
+<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/wwa.png" width="52px" height="52px">
 WWA Team Member
 </p>
 
