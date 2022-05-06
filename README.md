@@ -4,8 +4,9 @@
 
 <p align="center">
 I'm 0bfxgh0st*<br>casual ctf player<br>WWA Team Member
-<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/wwa.png" width="210px" height="210px">
 </p>
+
+<img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="210px" height="210px">
 
 <pre>
 Can you find my byte?
