@@ -12,7 +12,7 @@ Can you find my byte?
 </pre>
 
 <h2>HTB Rank</h2>
-<a href="https://app.hackthebox.com/profile/717835" target="_blank"><img src="https://www.hackthebox.eu/badge/image/717835"></a>
+<a href="https://app.hackthebox.com/profile/717835"><img src="https://www.hackthebox.eu/badge/image/717835"></a>
 <h2>WWA Team</h2>
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/wwa.png" width="120px" height="120px">
 
