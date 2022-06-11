@@ -2,9 +2,9 @@
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="210px" height="210px">
 </p>
 
-<p align="center">
-I'm 0bfxgh0st*<br>casual ctf player<br>
-</p>
+
+`I'm 0bfxgh0st*`
+`casual ctf player`
 
 <pre>
 Can you find my byte?
