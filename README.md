@@ -2,10 +2,7 @@
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/cat.png" width="210px" height="210px">
 </p>
 
-
-<p style="text-align: center;">&grave;I'm 0bfxgh0st*</p>
-
-<!--I'm `0bfxgh0st*`-->  
+I'm `0bfxgh0st*`  
 casual ctf player
 
 <pre>
