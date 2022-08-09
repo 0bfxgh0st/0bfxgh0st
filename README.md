@@ -7,7 +7,7 @@ I'm 0bfxgh0st*<br>casual ctf player<br>
 </p>
 
 ```
-*ba8dddb3a091b1f8b26b2ceb7aefcb49
+*BA8DDDB3A091B1F8B26B2CEB7AEFCB49
 ```
 
 <h2>HTB Rank</h2>
