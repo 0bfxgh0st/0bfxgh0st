@@ -6,7 +6,7 @@
 I'm 0bfxgh0st*<br>casual ctf player<br>
 </p>
 
-```
+```zsh
 *BA8DDDB3A091B1F8B26B2CEB7AEFCB49
 ```
 
