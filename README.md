@@ -10,7 +10,7 @@ I'm 0bfxgh0st*<br>casual ctf player<br>
 *BA8DDDB3A091B1F8B26B2CEB7AEFCB49
 ```
 
-<h2>HTB Rank</h2>
+<!--h2>HTB Rank</h2>
 <a href="https://app.hackthebox.com/profile/717835"><img src="https://www.hackthebox.eu/badge/image/717835"></a>
 <h2>WWA Team</h2>
 <img src="https://github.com/0bfxgh0st/0bfxgh0st/blob/main/icons/wwa.png" width="120px" height="120px">
@@ -42,4 +42,4 @@ I'm 0bfxgh0st*<br>casual ctf player<br>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/sqlite.svg" width="52px" height="32px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="32px" height="32px">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/xampp.svg" width="32px" height="32px">
-</p>
+</p-->
